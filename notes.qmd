@@ -1,0 +1,9 @@
+---
+title: "notes"
+format: html
+editor: visual
+---
+
+```{r}
+summary(mtcars)
+```
